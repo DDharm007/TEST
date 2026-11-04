@@ -2,8 +2,4 @@
 
 # Hello World
 
-@ JAY DIWALI
-
-@ WAGH BARAS
-
-@ JAY DHANTERAS
+# Robot
